@@ -3,7 +3,7 @@
 ## Contacts
 
 1. @smarrti - Telegram
-2. se.bashkin@ya.ru - EMAIL
+2. se.bashkin@ya.ru - E-Mail
 
 ## Summary
 
