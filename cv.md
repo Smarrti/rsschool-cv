@@ -2,8 +2,8 @@
 
 ## Contacts
 
-1. @smarrti - Telegram
-2. se.bashkin@ya.ru - E-Mail
+1. @smarrti - Telegram;
+2. se.bashkin@ya.ru - E-Mail.
 
 ## Summary
 
@@ -11,10 +11,10 @@ My goal is to be a good Frontend Developer. I have little experience in developm
 
 ## Skills
 
-* HTML
-* CSS
-* JavaScript
-* PHP
+* HTML;
+* CSS;
+* JavaScript;
+* PHPю
 
 ## Experience
 Recently, I developed a course project with technology HTML, CSS, JavaScript, PHP, RestAPI. I was able to gain experience in creating algorithms, testing code.
@@ -25,4 +25,4 @@ On the moment I end education in Sarapul Technical School Machine Building and I
 
 ## English
 
-My English level is A2
+My English level is A2.
