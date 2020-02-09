@@ -1,0 +1,17 @@
+html,
+body {
+  font-size: 20px;
+}
+
+body {
+  width: 1024px;
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+p {
+  line-height: 1.8;
+}
+
+.root {
+  display: flex;
+}
