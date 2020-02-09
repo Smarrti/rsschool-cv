@@ -17,6 +17,10 @@ p {
   display: flex;
 }
 
+h2:hover {
+  text-decoration: underline;
+}
+
 aside {
   margin: 10px;
 }
