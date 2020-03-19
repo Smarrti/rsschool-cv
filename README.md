@@ -1,1 +1,1 @@
-https://smarrti.github.io/rsschool-cv/cv 
+https://smarrti.github.io/rsschool-cv/
